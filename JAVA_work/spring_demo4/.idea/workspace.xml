@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c96cbeae-35ae-4ed0-b891-2e1cdf0d7c30" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/aopAno/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/aopAno/UserProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/spring5/test/java/TestAop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/aop.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="FxmlFile" />
+        <option value="spring.xml" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/bean1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Orders.java" />
+        <option value="$PROJECT_DIR$/src/main/java/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/bean2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/bean3.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/bean/Emp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bean/Dept.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/bean4.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/testBean.java" />
+        <option value="$PROJECT_DIR$/src/CollectionType/resources/bean1.xml" />
+        <option value="$PROJECT_DIR$/src/CollectionType/java/Stu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testdemo/Stu.java" />
+        <option value="$PROJECT_DIR$/src/test/java/testdemo/test_spring_demo1.java" />
+        <option value="$PROJECT_DIR$/src/spring5/test/java/testdemo/test_spring_demo1.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/test_spring_demo1.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/test_spring_demo1.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/Stu.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/bean1.xml" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/Book.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/FactoryBean/MyBean.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/FactoryBean/Course.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/MyBean.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/Course.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/bean3.xml" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/Orders_xiaohui.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/Orders/Orders_xiaohui.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/bean4.xml" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/Orders/MyBeanPost.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/bean2.xml" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/aotowire/Emp.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/bean5.xml" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/jdbc.properties" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/bean6.xml" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/dao_annotation/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/dao_annotation/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/dao_annotation/dao/UserDaoImp.java" />
+        <option value="$PROJECT_DIR$/src/spring5/test/java/test_spring_demo1.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/config/SpringConfig.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/UserDaoImp.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/JDKProxy.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/bean_dao1.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/spring5/test/java/TestAop.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/aopAno/UserProxy.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/TestAop.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/java/aopAno/User.java" />
+        <option value="$PROJECT_DIR$/src/spring5/CollectionType/resources/aop.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="spring_demo4" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spring" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="spring_demo4" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spring" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spring_demo4" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spring" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spring5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="spring_demo4" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="spring" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="spring5" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="CollectionType" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="FactoryBean" />
+      <recent name="testdemo" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JAVA_work\spring_demo2\lib" />
+      <recent name="D:\JAVA_work\spring_demo2\src\spring5\test\java" />
+      <recent name="D:\JAVA_work\spring_demo2\src\spring5\CollectionType" />
+      <recent name="D:\JAVA_work\spring_demo2\src\spring5" />
+      <recent name="D:\JAVA_work\spring\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA_work" />
+      <recent name="D:\JAVA_work\spring_demo4\lib" />
+      <recent name="D:\JAVA_work\spring_demo2\lib" />
+      <recent name="D:\JAVA_work\spring_demo2\src\spring5\CollectionType\resources" />
+      <recent name="D:\JAVA_work\spring_demo2\src\spring5\CollectionType\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestAop.testAopAnno">
+    <configuration name="JDKProxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDKProxy" />
+      <module name="spring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAop" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAop.testAopAnno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAop" />
+      <option name="METHOD_NAME" value="testAopAnno" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_spring_demo1.testService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_demo2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test_spring_demo1" />
+      <option name="METHOD_NAME" value="testService" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test_spring_demo1.testService2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_demo2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test_spring_demo1" />
+      <option name="METHOD_NAME" value="testService2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAop.testAopAnno" />
+        <item itemvalue="JUnit.TestAop" />
+        <item itemvalue="Application.JDKProxy" />
+        <item itemvalue="JUnit.test_spring_demo1.testService2" />
+        <item itemvalue="JUnit.test_spring_demo1.testService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestAop_testAopAnno - 2020.07.24 at 22h 12m 28s.xml">
+      <configuration name="TestAop.testAopAnno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop_testAopAnno - 2020.07.24 at 22h 16m 29s.xml">
+      <configuration name="TestAop.testAopAnno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop - 2020.07.24 at 22h 20m 19s.xml">
+      <configuration name="TestAop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop - 2020.07.24 at 22h 21m 44s.xml">
+      <configuration name="TestAop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop_testAopAnno - 2020.07.24 at 22h 29m 32s.xml">
+      <configuration name="TestAop.testAopAnno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop - 2020.07.24 at 22h 37m 48s.xml">
+      <configuration name="TestAop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop - 2020.07.24 at 22h 41m 46s.xml">
+      <configuration name="TestAop" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop_testAopAnno - 2020.07.24 at 22h 45m 26s.xml">
+      <configuration name="TestAop.testAopAnno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop_testAopAnno - 2020.07.24 at 22h 48m 53s.xml">
+      <configuration name="TestAop.testAopAnno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestAop_testAopAnno - 2020.07.24 at 22h 50m 04s.xml">
+      <configuration name="TestAop.testAopAnno" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21983914" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.43631038" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.41434845" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.329429" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2533512" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29624665" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49798927" visible="true" weight="0.41434845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329429" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5020107" side_tool="true" weight="0.41434845" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49932975" weight="0.329429" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.2533512" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/AbstractXmlApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE.jar!/org/springframework/beans/factory/HierarchicalBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bean1.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Orders.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/User.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/dao/UserDaoImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testdemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Dept.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Emp.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bean3.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bean2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testBean.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bean4.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/testdemo/Stu.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/test_spring_demo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/FactoryBean/Course.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/Course.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/Orders/MyBeanPost.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/MyBean.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/Book.java" />
+    <entry file="file://$PROJECT_DIR$/src/bean6.xml" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/Orders/Orders_xiaohui.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/bean4.xml" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/bean3.xml" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/bean2.xml" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/Stu.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/bean5.xml" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/bean6.xml" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/dao_annotation/service/UserService.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/aotowire/Dept.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/aotowire/Emp.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/dao_annotation/dao/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/dao_annotation/dao/UserDaoImp.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/bean1.xml" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/config/SpringConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/test/java/test_spring_demo1.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/JDKProxy.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/UserDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/UserDaoImp.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/jdbc.properties" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/TestAop.java" />
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/aopAno/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/java/aopAno/UserProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring5/test/java/TestAop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring5/CollectionType/resources/aop.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-aop:5.2.6.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="install:install-file" />
+  </component>
+</project>

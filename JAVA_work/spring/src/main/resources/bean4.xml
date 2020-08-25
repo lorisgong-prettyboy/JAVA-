@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+
+    <!--级联赋值的操作-->
+    <bean id="emp" class="bean.Emp">
+    <!--先设置两个普通的属性-->
+    <property name="ename" value="lucy"></property>
+    <property name="gender" value="女"></property>
+    <!--设置对象类属性-->
+        <property name="dept" ref="dept"></property>
+    </bean>
+    <bean id="dept" class="bean.Dept">
+        <property name="dname" value="财务部"></property>
+    </bean>
+</beans>
